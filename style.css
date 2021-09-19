@@ -1,0 +1,563 @@
+
+.logo-bar{
+    width: 100%;
+    height: 90px;
+    background-color: transparent;
+    padding: auto;
+}
+body{
+    margin: 0;
+    display: flex;
+}
+#ford-icon{
+    box-sizing: inherit;
+    /* font-size: 45px; */
+    height: 109px;
+    width: 209px;
+    margin-left: 73px;
+    /* margin: auto; */
+    margin-top: 24px;
+}
+.menu-icons{
+
+    margin-top: 25px;
+    padding: 8px;
+    vertical-align: middle;
+    font-size: 17px;
+    color:#008cba;
+    font-family: Arial, Helvetica, sans-serif;
+  
+}
+
+   .label-bar{
+  justify-content: center;
+    display: flex;
+    width: 476px;
+    float: right;
+    height: 90px;
+    background-color:transparent;
+    margin-right: 159px;
+    margin: righdt
+
+      
+      
+   }
+   .menu-icons:hover{
+       color: rgb(31, 29, 29);
+   }
+   #location-icon{
+       float: left;
+   }
+  #location-icon{
+
+  }
+  .end-bar{
+    justify-content: center;
+    height: 90px;
+    width: 150px;
+    float: right;
+    margin-right: 8px;
+    background-color:transparent;
+    margin-top: -137px;
+
+     
+  }
+ .material-icons{
+     color: #008cba;
+    padding: 17px;
+    height: 10px;
+    width: 10px;
+    font-size: 32px;
+    padding-top: 28px;
+
+    
+ }
+ .image-container{
+     width: 100%;
+     height: 370px;
+     
+ }
+ #image1{
+    margin-top: -47px;
+    width: 100%;
+    height: 375px;
+    
+ }
+ #mid-text{
+     height:    130px;
+     width: 100%;
+ }
+ 
+ .text-container{
+     
+     width: 100%;
+     height: 130px;
+     background-color:#fff;;
+    
+ }
+ .text-one{
+  /*  font-family: SFProDisplay-Bold, Helvetica, Arial, sans-serif;*/
+  font-family: "Helvetica Neue",Helvetica,Roboto,Arial,sans-serif;
+     text-align: center;
+     font-size: 39px;
+     color: #616161;
+     font-weight: 400;
+ }
+ .text-two{
+    text-align: center;
+    font-size: 30px;
+    font-family: SFProDisplay-Bold, Helvetica, Arial, sans-serif;
+    font-size: 26px;
+    font-weight: 200;
+    margin-top: -26px;
+
+    
+ }
+.mini-text1{
+   
+    font-size: 25px;
+    color: blue;
+   margin-top: 3px;
+    margin-left: 318px;
+    
+}
+
+.mini-text2{
+   
+    font-size: 25px;
+    color: blue;
+   margin-top: 10px;
+    margin-left: 500px;
+   
+    
+}
+.text-box{
+  
+    height: 22px;
+    width: 100%;
+    background-color:transparent;
+}
+#cars{
+   padding: 15px;
+    margin-left: 364px;
+    font-family: SFProDisplay-Bold, Helvetica, Arial, sans-serif;
+    font-size: 18px;
+    
+    color: #1b394e;
+    font-weight: 700;
+
+}
+
+#suv{
+    
+    font-family: SFProDisplay-Bold, Helvetica, Arial, sans-serif;
+    font-size: 18px;
+    color: #1b394e;
+    font-weight: 700
+   
+    
+}
+.catagory:hover{
+    color: rgb(9, 9, 110);
+}
+.image-box{
+    display: flex;
+    width: 100%;
+    height: 240px;
+    background-color: transparent;
+}
+
+.car-image{
+   padding: 40px;
+   padding-left: 106px;
+   
+}
+  .text-box2{
+      width: 50%;
+      height: 369px;
+      float: left;
+      background-color:  #1b394e;
+  }  
+  .text3{
+    height: 154px;
+    width: 430px;
+    padding: 6px;
+  
+  } 
+  .knowmore-box{
+    width: 230px;
+    height: 50px;
+    background: #2d96cd;
+    float: left;
+    margin-left: 72px;
+    margin-top: 26px;
+     
+  }
+  #know-box:hover{
+   background-color:  #fff;
+}
+
+  .knowmore-text{
+    margin-top: 0px;
+    padding: 12px;
+    padding-left: 27px;
+    color: white;
+    /* text-align: center; */
+    font-size: 27px;
+    font-family: SFProDisplay-Bold, Helvetica, Arial, sans-serif;
+
+   
+    
+
+      
+  }
+  #know-icon:hover{
+     color: black;
+  }
+  .image-box2{
+      height: 369px;
+      width: 50%;
+      float: right;
+      background-color: blueviolet;
+  }
+.image2{
+    height: 369px;
+    width: 100%;
+}
+.text3-container{
+    width: 100%;
+    height: 340px;
+   background-color: rgb(14, 12, 12);
+float: left;
+}
+.text-box-3{
+   
+    margin-top: 13px;
+    width: 100%;
+    height: 54px;
+    float: left;
+    background-color:transparent;
+
+
+
+}
+
+.text31{
+    padding-left: 162px;
+    /* text-align: center; */
+    font-size: 45px;
+    color: white;
+    font-family: SFProDisplay-Bold, Helvetica, Arial, sans-serif;
+
+   
+}
+.video-thumbnail{
+   
+    width: 100%;
+    height: 240px;
+    background-color: rgb(100, 47, 185);
+}
+.image-bottom{
+    height: 240px;
+    width: 50%;
+    float: left;
+}
+.text-box3-container{
+    width: 100%;
+    height: 400px;
+    float: left;
+    background-color: thistle;
+}
+.left-part{
+    width: 50%;
+    height: 400px;
+    float: left;
+    background-color: #002080;
+
+}
+.right-part{
+    width: 50%;
+    height: 400px;
+    float: left;
+    background-color: #002080;
+}
+
+.imag4{
+    
+    height: 66%;
+}
+.text-box4-container{
+    width: 100%;
+    height: 240px;
+background-color: antiquewhite; 
+float: left;   
+}
+.tex-container4{
+    width: 100%;
+    height: 39%;
+    background-color: transparent;
+    float: left;
+    margin-top: 70px;
+   
+}
+
+.text-left{
+    font-family: "Antenna",Arial,Helvetica,"Microsoft YaHei","微软雅黑","STXihei","华文细黑","SimSun","宋体";
+    color: #1b394e;
+
+    font-size: 35px;
+    
+    float: left;
+    height: 100%;
+    width: 50%;
+    background-color: transparent;
+}
+.text-box-right{
+    float: left;
+    height: 100%;
+    width: 50%;
+    background-color: rgb(196, 202, 200);
+}
+.top{
+    margin: 0px;
+    width: 100%;
+    height: 50%;
+    border: solid 1px;
+    border-color:#008cba ;
+    background-color:  #008cba;
+
+}
+.top:hover{
+    background-color: whitesmoke;
+}
+.bottom{
+    margin: 0px;
+    width: 100%;
+    height: 50%;
+    background-color:white;
+}
+.te{
+   
+    font-size: 42px;
+    font-weight: 100;
+    margin-top: 0;
+}
+#location-icon{
+
+
+   color: white;
+   font-size: 30px;
+   line-height: 0px;
+}
+#location-icon:hover{
+color: #008cba;
+}
+.location-label{
+   
+    line-height: 45px;
+    font-size: 21px;
+    margin-left: 21px;
+    color: white;
+    font-family: "Antenna",Arial,Helvetica,"Microsoft YaHei","微软雅黑","STXihei","华文细黑","SimSun","宋体";
+}
+.location-label:hover{
+    color: #008cba;
+
+}
+
+.input-feald{
+ 
+    
+    outline: none;
+border-color: transparent;
+    font-family: "Antenna",Arial,Helvetica,"Microsoft YaHei","微软雅黑","STXihei","华文细黑","SimSun","宋体";
+    margin: 0px;
+    margin-top: -7px;
+    height: 84%;
+    width: 90%;
+}
+.input-feald::placeholder{
+    font-size: 16px;
+    color: #000;
+}
+#search-icon{
+    margin-right: 10px;
+    float: right;
+    margin-top: -65px;
+    
+}
+.input{
+    border-color: transparent;
+}
+
+.footer{
+    height: 500px;
+    width: 100%;
+    background-color: #1b394e;
+    float: left;
+}.search-footer{
+    width: 100%;
+    height: 100px;
+    float: left;
+    background-color: #0a0a09d3;
+
+   
+}
+.search-for{
+    color: white;
+    font-size: 18px;
+border: none;
+font-family: "Antenna",Arial,Helvetica,"Microsoft YaHei","微软雅黑","STXihei","华文细黑","SimSun","宋体";
+background-color:transparent;
+   outline: none;
+    margin-left: 11px;
+    margin-top: 25px;
+    height: 35px;
+    width: 190px;
+}
+.search-for::placeholder{
+    font-size: 22px;
+    color: white;
+}
+#f12{
+    
+    padding-left: 39px;
+     padding-top: 30px;
+}
+.mid-footer{
+    width: 100%;
+    height: 300px;
+    float: left;
+    background-color: #3b3b3b;
+}
+.f-mid{
+    height: 100%;
+    width: 60%;
+    background-color:transparent;
+    float: left;
+}
+.column1{
+    font-size: 20px;
+    color:white;
+    font-family: "Antenna",Arial,Helvetica,"Microsoft YaHei","微软雅黑","STXihei","华文细黑","SimSun","宋体";
+    height: 100%;
+    width: 50%;
+    background-color: transparent;
+    float: left;
+}
+.c2{
+    font-size: 24px;
+    color: white;
+    font-family: "Antenna",Arial,Helvetica,"Microsoft YaHei","微软雅黑","STXihei","华文细黑","SimSun","宋体";
+}
+.ca{
+    margin-left: 10px;
+    font-family: "Antenna",Arial,Helvetica,"Microsoft YaHei","微软雅黑","STXihei","华文细黑","SimSun","宋体";
+}
+.column2{
+    
+    float: right;
+    font-size: 20px;
+    color:white;
+    font-family: "Antenna",Arial,Helvetica,"Microsoft YaHei","微软雅黑","STXihei","华文细黑","SimSun","宋体";
+    height: 100%;
+    width: 50%;
+    background-color: rgb(15, 143, 73);
+   
+
+}
+.list2{
+    font-size: 20px;
+    color:white;
+    font-family: "Antenna",Arial,Helvetica,"Microsoft YaHei","微软雅黑","STXihei","华文细黑","SimSun","宋体";
+}
+.right-footer{
+    float: right;
+    height: 100%;
+    width: 40%;
+    background-color: transparent;
+}
+.top-row1{
+    float: top;
+    height: 60px;
+    width: 100%;
+    background-color: transparent;
+}
+.top-row2{
+    float: top;
+    height: 60px;
+    width:100%;
+    background-color: transparent;
+}
+.top-row3{
+    float: top;
+    height: 60px;
+    width: 100%;
+    background-color: transparent;
+}
+
+.tc{
+    font-size: 22px;
+    color: white;
+    font-family: "Antenna",Arial,Helvetica,"Microsoft YaHei","微软雅黑","STXihei","华文细黑","SimSun","宋体";
+}
+.cl-white{
+    margin-left: 78px;
+    color: white;
+    font-size: 16px;
+    font-family: "Antenna",Arial,Helvetica,"Microsoft YaHei","微软雅黑","STXihei","华文细黑","SimSun","宋体";
+}
+
+.icn-box{
+
+    width: 200px;
+    height: 45px;
+    background-color: transparent;
+    float: left;
+    margin-left: 70px;
+   
+}
+.fa {
+   
+    
+    padding: 7px;
+  font-size: 20px;
+  width: 25px;
+  text-align: center;
+  text-decoration: none;
+  margin: 4px 4px;
+    
+}
+.fa-facebook {
+    text-align: center;
+   font-size: 20px;
+    background: #3B5998;
+    color: white;
+  }
+
+  .fa-twitter {
+    background: #55ACEE;
+    color: white;
+  }
+  .fa-youtube {
+    background: #bb0000;
+    color: white;
+  }
+  .fa-instagram {
+    background: #125688;
+    color: white;
+  }
+ .bottom-img{
+
+    float: right;
+    width: 84px;
+    height: 50px;
+    margin-right: 57px;
+    margin-top: -27px;
+    
+ } 
+
+
+
+
+
